@@ -14,7 +14,8 @@ It's a commercial library, but sometimes I just love to share.
 
 Tested with iOS 6 upwards, Xcode 6.1 and ARC.
 
-Restriction for iOS 6: addTextFieldWithConfigurationHandler: will not work properly on alert views! Despite this restriction the presentation of alert views and action sheets with buttons will work.
+Restriction for iOS 6: `addTextFieldWithConfigurationHandler:` will not work properly on alert views! 
+Despite this restriction the presentation of alert views and action sheets with buttons will work from iOS 6.
 
 ## License
 
