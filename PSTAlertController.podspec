@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "PSTAlertController"
-  s.version          = "1.1.0"
+  s.version          = "1.1.1"
   s.summary          = "API similar to UIAlertController, backwards compatible to iOS 6. Will use the new shiny API when you run iOS 8. "
   s.description      = <<-DESC
                        We cheat a bit by having PSTAlertController superclass be NSObject, but for most use cases it's still a lot more convenient than using UIAlertView/UIActionSheet.
